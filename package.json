@@ -1,0 +1,19 @@
+{
+  "name": "project-11",
+  "version": "1.0.0",
+  "description": "project 11",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rohit235698/Project-11.git"
+  },
+  "author": "Rohit Koranga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohit235698/Project-11/issues"
+  },
+  "homepage": "https://github.com/rohit235698/Project-11#readme"
+}
